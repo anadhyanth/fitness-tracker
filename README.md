@@ -1,6 +1,6 @@
 # Health & Fitness Tracker
 
-Python-based backend designed to help users monitor and analyze their nutrition and workout routines. Utilizing natural language processing through Nutritionix's APIs, it simplifies the logging of meals and exercises. This app makes health tracking accessible to everyone.
+ML-Based Fitness Tracker that predicts calorie burn, analyzes workout patterns, and provides personalized fitness recommendations using machine learning. Features activity tracking, progress visualization, and data-driven insights for smarter health management.
 
 ## Features
 - **Natural Language Meal and Exercise Logging**: Log meals and exercises using natural language, processed through the Nutritionix API for detailed nutritional info and calories burned.
