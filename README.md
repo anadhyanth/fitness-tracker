@@ -2,14 +2,6 @@
 
 Python-based backend designed to help users monitor and analyze their nutrition and workout routines. Utilizing natural language processing through Nutritionix's APIs, it simplifies the logging of meals and exercises. This app makes health tracking accessible to everyone.
 
-## Table of Contents
-1. [Features](#features)
-1. [Installation](#installation)
-1. [Usage](#usage)
-1. [Contributions](#contributions)
-1. [Future Improvements](#future-improvements)
-1. [License](#license)
-
 ## Features
 - **Natural Language Meal and Exercise Logging**: Log meals and exercises using natural language, processed through the Nutritionix API for detailed nutritional info and calories burned.
 - **Habit Tracking and Visualization**: Track and visualize health and fitness habits using Pixela, enhanced with custom Python visualizations for in-depth data analysis.
