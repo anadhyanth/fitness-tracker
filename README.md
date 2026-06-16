@@ -45,6 +45,3 @@ Contributions are what make the open-source community such an amazing place to l
 - **Advanced Analytics**: Use machine learning to provide personalized health insights and recommendations.
 - **Integration with Fitness Devices**: Sync data from fitness trackers for automated exercise logging.
 - **Community Features**: Implement social sharing, challenges, and leaderboards to encourage user engagement.
-
-## License
-Distributed under the MIT License. See [`LICENSE`](https://github.com/siddhant-vij/Health-Fitness-Tracker/blob/main/LICENSE) for more information.
