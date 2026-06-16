@@ -1,4 +1,4 @@
-# Health & Fitness Tracker
+# Fitness Tracker
 
 ML-Based Fitness Tracker that predicts calorie burn, analyzes workout patterns, and provides personalized fitness recommendations using machine learning. Features activity tracking, progress visualization, and data-driven insights for smarter health management.
 
